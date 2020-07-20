@@ -1,34 +1,11 @@
-import random
 
-randrange[10]
+#create list 10
+ten = []
+#create list 100
+#create lis 100000
 
-for i in randrange(100):
-  r = random.randint(1, 100)
-  range.append(r)
-
-
-  for i in (randrange(len(range))
-    print(range[I]):
-
-
-
-
-
-
-
-import random
-
-randrange[1000]
-
-for i in randrange(10000):
-  r = random.randint(1, 6)
-  range.append(r)
-
-
-  for i in (randrange(len(range))
-    print(ramdrange[I]):
-
-
-
-
-
+#for loo for list 10
+  #add rand num
+for i in range(10):
+  ten.append(random.randint(1,6))
+  print(ten[i])
