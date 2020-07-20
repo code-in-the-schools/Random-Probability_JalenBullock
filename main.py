@@ -1,11 +1,11 @@
 
 #create list 10
-ten = []
+ten = [10]
 #create list 100
 #create lis 100000
 
-#for loo for list 10
+#For loop for list 10
   #add rand num
 for i in range(10):
-  ten.append(random.randint(1,6))
-  print(ten[i])
+  ten.append(random.randint(1,6)
+  print(ten[I])
