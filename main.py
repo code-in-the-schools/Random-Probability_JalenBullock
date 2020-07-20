@@ -1,11 +1,14 @@
 import random
 
-range[10]
+randrange[10]
 
-for i in range(10):
+for i in randrange(100):
   r = random.randint(1, 6)
   range.append(r)
 
 
-  for i in range(len(range)):
-    print(range[i])
+  for i in (randrange(len(range))
+    print(ramdrange[i]):
+
+
+
